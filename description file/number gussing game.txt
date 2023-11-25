@@ -1,0 +1,10 @@
+ in this progect i made a game that takes from the user 2 inputs 
+the numbers the descripe the range of the number that the computer will select the random number from
+the two inputs are the fist and the last number in the ramnge 
+then the number is selected randomly
+then the user have a 5 shots of tring to guess the trandom number
+if he make it the programme prints congratulations 
+else 
+the programe makes him try agin
+in case that the user fails the 5 tries 
+the programme print the writes number and ask him if he wants to play agin. 
